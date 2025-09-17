@@ -10,12 +10,12 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 
 | Assignment   | Topic                           | Repo              | Accept (classroom link)              |
 |--------------|---------------------------------|-------------------|-------------------
-| Assignment-0 | Setting the system up           | [Assignment-0 repo](https://github.com/mude-sel-2025/assignment-0) |   [Accept Assignment-0 (GitHub Classroom)](https://classroom.github.com/a/Oyk9wOrn)
-| Assignment-1 | Numerical Modeling              | [Assignment-1 repo](https://github.com/mude-sel-2025/assmt-1)  |       [Accept Assignment-1 (GitHub Classroom)](https://classroom.github.com/a/3XMALFC0)
-| Assignment-2 | Numerical Modeling              | [Assignment-2 repo](https://github.com/mude-sel-2025/Assignment_02)  |  [Accept Assignment-2 (GitHub Classroom)](https://classroom.github.com/a/jM9TtrIh)
-| Assignment-3 | Linear Algebra – Eigenvalue Problem | [Assignment-3 repo](https://github.com/mude-sel-2025/Assignment-3)| [Accept Assignment-3 (GitHub Classroom)](https://classroom.github.com/a/_lQ33kG0)
-| Assignment-4 | Optimization                    | [Assignment-4 repo](https://github.com/mude-sel-2025/Assignment-4)|  [Accept Assignment-4 (GitHub Classroom)](https://classroom.github.com/a/9Aikc5cJ)
-| Assignment-5 | Uncertainty & Estimation        | [Assignment-5 repo](https://github.com/mude-sel-2025/Assignment-5)| [Accept Assignment-5 (GitHub Classroom)](https://classroom.github.com/a/Pc4F418W)
+| Assignment-0 | Setting the system up           | [Assignment-0](https://github.com/mude-sel-2025/assignment-0) |   [Accept Assignment-0](https://classroom.github.com/a/Oyk9wOrn)
+| Assignment-1 | Numerical Modeling              | [Assignment-1](https://github.com/mude-sel-2025/assmt-1)  |       [Accept Assignment-1](https://classroom.github.com/a/3XMALFC0)
+| Assignment-2 | Numerical Modeling              | [Assignment-2](https://github.com/mude-sel-2025/Assignment_02)  |  [Accept Assignment-2](https://classroom.github.com/a/jM9TtrIh)
+| Assignment-3 | Linear Algebra – Eigenvalue Problem | [Assignment-3](https://github.com/mude-sel-2025/Assignment-3)| [Accept Assignment-3](https://classroom.github.com/a/_lQ33kG0)
+| Assignment-4 | Optimization                    | [Assignment-4](https://github.com/mude-sel-2025/Assignment-4)|  [Accept Assignment-4](https://classroom.github.com/a/9Aikc5cJ)
+| Assignment-5 | Uncertainty & Estimation        | [Assignment-5](https://github.com/mude-sel-2025/Assignment-5)| [Accept Assignment-5](https://classroom.github.com/a/Pc4F418W)
 
 
 ## **References: Teachbook**
