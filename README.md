@@ -16,14 +16,20 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 | Assignment-3 | Linear Algebra – Eigenvalue Problem | [Assignment-3](https://github.com/mude-sel-2025/Assignment-3)| [Accept Assignment-3](https://classroom.github.com/a/_lQ33kG0)
 | Assignment-4 | Optimization                    | [Assignment-4](https://github.com/mude-sel-2025/Assignment-4)|  [Accept Assignment-4](https://classroom.github.com/a/9Aikc5cJ)
 | Assignment-5 | Uncertainty & Estimation        | [Assignment-5](https://github.com/mude-sel-2025/Assignment-5)| [Accept Assignment-5](https://classroom.github.com/a/Pc4F418W)
+| Assignment-6 | CLT & CI                        | [Assignment-6](https://github.com/mude-sel-2025/Assignment-6)| [Accept Assignment-6](https://classroom.github.com/a/jiasWX1f) 
+| Assignment-7 | Regression & Model Diagnostics    | [Assignment-7](https://github.com/mude-sel-2025/Assignment-7)| [Accept Assignment-7](https://classroom.github.com/a/jhTtzUNv)
+| Assignment-8 | Sampling & Reliability    | [Assignment-8](https://github.com/mude-sel-2025/Assignment-8)| [Accept Assignment-8](https://classroom.github.com/a/MEijjHO9)
+| Assignment-9 | Fourier Series             | [Assignment-9](https://github.com/mude-sel-2025/Assignment-9) | [Accept Assignment-9](https://classroom.github.com/a/YzY5VAcZ)
+| Assignment-10| Fourier Transform & FFT | [Assigment-10](https://github.com/mude-sel-2025/Assignment-10) | [Accept-Assignment-10](https://classroom.github.com/a/EmoQ5JCZ)
 
+[Survey for Part-2 of MUDE](https://forms.gle/wqfdvNNXSPZv1KuP6)
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
 
 ## **References: Python**
    * Python official tutorial (if you are new to _Python_ but not to _programming_) https://docs.python.org/3/tutorial/index.html (Go through Chapters 3, 4, and 5)
-   * Python basics teach book https://teachbooks.io/learn-python/01/Theory/01.html
+   * Python basics teach book https://tudelft-citg.github.io/learn-python/intro.html
    * Python for Programmers (long list) https://wiki.python.org/moin/BeginnersGuide/Programmers
    * Python for Non-Programmers (long list) https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 
